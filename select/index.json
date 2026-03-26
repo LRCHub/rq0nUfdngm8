@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "FLY TO ME TO THE MOON & BACK",
+  "base_artist": "THE SPIDERS FROM MARS",
+  "createdAt": "2026-03-26T00:38:11.751174Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fly To Me To The Moon & Back",
+      "artist": "The Spiders From Mars",
+      "has_synced": true,
+      "path": "select/01_Fly_To_Me_To_The_Moon_&_Back_The_Spiders_From_Mars.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "FLY TO ME TO THE MOON",
+      "artist": "THE SPIDERS FROM MARS",
+      "has_synced": true,
+      "path": "select/02_FLY_TO_ME_TO_THE_MOON_THE_SPIDERS_FROM_MARS.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "FLY TO ME TO THE MOON & BACK _ THE SPIDERS FROM MARS",
+      "artist": "Royce",
+      "has_synced": true,
+      "path": "select/03_FLY_TO_ME_TO_THE_MOON_&_BACK___THE_SPIDERS_FROM_MARS_Royce.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fly to Me to the Moon & Back",
+      "artist": "The Spiders from Mars",
+      "has_synced": true,
+      "path": "select/04_Fly_to_Me_to_the_Moon_&_Back_The_Spiders_from_Mars.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fly To Me To The Moon & Back",
+      "artist": "The Spiders From Mars",
+      "has_synced": false,
+      "path": "select/pl_01_Fly_To_Me_To_The_Moon_&_Back_The_Spiders_From_Mars.txt"
+    }
+  ]
+}
